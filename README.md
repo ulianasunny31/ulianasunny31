@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on html/css/js projects
 - 📫 How to reach me - email:uliana1331@gmail.com
 
-<!---
-ulianasunny31/ulianasunny31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧰Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width ="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width ="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width ="50" height="50"/> 
