@@ -9,5 +9,5 @@
 
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulianasunny31&layout=donut&langs_count=6&hide=html,css)](https://github.com/ulianasunny31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulianasunny31&layout=pie&langs_count=6)](https://github.com/ulianasunny31/github-readme-stats)
 
