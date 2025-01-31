@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uliana Seredenko
-- 👀 I’m currently learning Javascript, going to learn React, Node.Js, React Native. 
-- 💞️ Would love to collaborate on html/css/js projects
+- 👀 I’m currently learning Javascript, React, and Node.Js. 
+- 💞️ Would love to collaborate on html/css/js/react projects
 - 📫 How to reach me - email:uliana1331@gmail.com
 
 🧰Toolbox
