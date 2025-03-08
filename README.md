@@ -9,7 +9,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulianasunny31&layout=pie&langs_count=6)](https://github.com/ulianasunny31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulianasunny31)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ulianasunny31&show_icons=true)  
 
  
 ### ✍️ Random Dev Quote
